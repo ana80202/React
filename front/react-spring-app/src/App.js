@@ -57,6 +57,7 @@ function App() {
   // * 터미널에서 npm/ yarn 통해 설치
   // $ npm install axios
   // $ yarn add axios
+  
 
   // 1. post 요청 시 데이터를 자동으로 JSON 테이터 형태로 처리해주므로,
   // fetch와 달리 JSON.stringify 를 명시적으로 호출할 필요가 없음
