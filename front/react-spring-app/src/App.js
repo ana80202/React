@@ -67,6 +67,8 @@ function App() {
   //단, header  내용 변경 시 명시적으로 작성해야 함
   // ex) headers : {'Authorization' ; 'Bearer {token}'}
 
+  
+
 
   return (
     <ul>
