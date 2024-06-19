@@ -54,7 +54,7 @@ function App() {
   // axios
   //브라우저 및 node.js 환경에서
   // 비동기 요청을 쉽게 처리할 수 있게 해주는 javascript 라이브러리
-  // * 터미널에서 npm/ yarn 통해 설치
+  // * 터미널에서 npm/ yarn 통해 설치해야한다.
   // $ npm install axios
   // $ yarn add axios
   
