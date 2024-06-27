@@ -6,7 +6,7 @@ const [todoList, setTodoList] = useState([
 
 { title : "React 개념정리", isComplete : false },
 
-{ title : "도서관에 책 반납하기", isComplete : true }
+{ title : "도서관에 책 반납", isComplete : true }
 
 ]);
 
